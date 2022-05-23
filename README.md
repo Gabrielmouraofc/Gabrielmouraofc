@@ -5,7 +5,6 @@
   <a href="https://github.com/Gabrielmouraofc">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmouraofc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmouraofc&layout=compact&langs_count=7&theme=dark"/><br>
-    <script src="https://tryhackme.com/badge/684413"></script>
     <img src="https://tryhackme-badges.s3.amazonaws.com/Noxkali.png" alt="TryHackMe">
 </div>
 <div style="display: inline_block"><br>
