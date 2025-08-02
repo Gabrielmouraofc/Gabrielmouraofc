@@ -1,17 +1,53 @@
-## Olá! Eu sou Gabriel Moura 
-- 🌱 Hoje estou cursando a faculdade de Segurança da informação 
+<h1 align="center">Gabriel Moura 🌐</h1>
 
-<div align="center">
-  <a href="https://github.com/Gabrielmouraofc">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Gabrielmouraofc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmouraofc&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center">
+  💻 Estudante de Segurança da Informação com foco em <strong>cibersegurança ofensiva</strong>, automação e exploração de vulnerabilidades.
+</p>
+
+---
+
+## 🧠 Sobre Mim
+
+- 📚 Cursando **Segurança da Informação**
+- 👨‍💻 Foco em: Ethical Hacking, Scripts, XSS, RCE, CVE research
+- ⚙️ Gosto de trabalhar com:
+  `JavaScript` `TypeScript` `Python` `HTML` `CSS` `React`
+
+---
+
+## 📈 GitHub Stats
+
+![Gabrielmouraofc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielmouraofc&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielmouraofc&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Tecnologias
+
+![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TS](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+---
+
+## 📌 Destaques
+
+- [🔎 Stored XSS - WeGIA 3.4.0 (PoC)](https://github.com/Gabrielmouraofc/stored-xss-wegia)
+- [⚙️ Scripts de automação (em breve)](https://github.com/Gabrielmouraofc)
+
+---
+
+## 📬 Contato
+
+- ✉️ gabrielmoura[at]protonmail.com  
+- 🐦 Twitter: [@gabrielmouraofc](https://twitter.com/gabrielmouraofc)  
+- 💼 LinkedIn: [linkedin.com/in/gabrielmouraofc](https://linkedin.com/in/gabrielmouraofc)
+
+---
+
+<p align="center"><i>“A melhor defesa é conhecer o ataque.”</i></p>
+
